@@ -16,12 +16,12 @@ namespace OOPAllAspects
                 return name;
             }
         }
-
+        public int Age { get; set; }
         public Person(string name)
         {
             this.name = name;
         }
-
+        
         public override string ToString()
         {
             return "Person: " + name;

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\OOPAllAspects\OOPAllAspects\bin\Debug\OOPAllAspects.exe.config
+C:\Users\user\Desktop\OOPAllAspects\OOPAllAspects\bin\Debug\OOPAllAspects.exe
+C:\Users\user\Desktop\OOPAllAspects\OOPAllAspects\bin\Debug\OOPAllAspects.pdb
+C:\Users\user\Desktop\OOPAllAspects\OOPAllAspects\obj\Debug\OOPAllAspects.csprojAssemblyReference.cache
+C:\Users\user\Desktop\OOPAllAspects\OOPAllAspects\obj\Debug\OOPAllAspects.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOPAllAspects\OOPAllAspects\obj\Debug\OOPAllAspects.exe
+C:\Users\user\Desktop\OOPAllAspects\OOPAllAspects\obj\Debug\OOPAllAspects.pdb

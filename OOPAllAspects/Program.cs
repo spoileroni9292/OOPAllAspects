@@ -10,6 +10,9 @@ namespace OOPAllAspects
     {
         static void Main(string[] args)
         {
+            Person person = new Person("Panos Bozas");
+            Console.WriteLine(person);
+            
         }
     }
 }

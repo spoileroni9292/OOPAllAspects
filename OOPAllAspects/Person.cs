@@ -27,22 +27,22 @@ namespace OOPAllAspects
             return "Person: " + name;
         }
 
-        public void Create()
+        public virtual void Create()
         {
             Console.WriteLine($"The person with name: {name} has been created");
         }
 
-        public void Read()
+        public virtual void Read()
         {
             Console.WriteLine($"The person details are : {name}");
         }
 
-        public void Update()
+        public virtual void Update()
         {
             Console.WriteLine($"The person with name: {name} has been updated");
         }
 
-        public void Delete()
+        public virtual void Delete()
         {
             Console.WriteLine($"The person with name: {name} has been deleted");
         }

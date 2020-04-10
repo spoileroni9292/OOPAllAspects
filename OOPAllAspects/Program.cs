@@ -20,6 +20,7 @@ namespace OOPAllAspects
             Student student5 = new Student("Panos Giannou");
             Student student6 = new Student("Lefteris Pappas");
             Teacher teacher = new Teacher("Tasos Lelakis");
+            Teacher teacher1 = new Teacher("George Pasparakis");
             Console.WriteLine(student);
             Console.WriteLine("---------------Inheritance Grouping------------------");
 
@@ -73,6 +74,10 @@ namespace OOPAllAspects
 
 
             Console.WriteLine("--------Summarize of object product---------");
+
+            Console.WriteLine("---------------------------Association--------------------------------");
+            teacher.AssignStudent(student3);
+            student4.HireTeacher(teacher1);
             
         }
     }

@@ -8,6 +8,7 @@ namespace OOPAllAspects
 {
     class Teacher : Person
     {
+        public int age;
         public Teacher(string name) : base(name)
         {
 
@@ -37,6 +38,11 @@ namespace OOPAllAspects
         public override void Delete()
         {
             Console.WriteLine($"The teacher with name: {Name} has been deleted");
+        }
+
+        public void AssignStudent(Student student)
+        {
+            Console.WriteLine("The student with name " + student.Name + " has been assigned to Instructor " + Name);
         }
     }
 }

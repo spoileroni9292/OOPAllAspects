@@ -38,5 +38,10 @@ namespace OOPAllAspects
         {
             Console.WriteLine($"The student with name: {Name} has been deleted");
         }
+
+        public void HireTeacher(Teacher teacher)
+        {
+            Console.WriteLine("Teacher " + teacher.Name + " has been hired from stundent " + Name);
+        }
     }
 }
